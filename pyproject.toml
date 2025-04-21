@@ -26,7 +26,7 @@ beautifulsoup4 = "^4.12.3"
 
 [tool.poetry.group.dev.dependencies]
 commitizen = "^4.1.0"
-setuptools = "^75.7.0"
+setuptools = ">=75.7,<80.0"
 pytest = "^8.3.4"
 
 [build-system]
